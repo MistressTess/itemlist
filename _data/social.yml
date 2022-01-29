@@ -16,23 +16,23 @@ reddit:
 soundcloud:
 stack_overflow:
 stack_exchange:
-steam:
+steam: mistresstessie
 tumblr:
 twitter:
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+youtube:
+twitch: mistresstess
 tiktok:
 
 # Share button options
 share:
-  facebook: true
-  twitter: true
+  facebook:
+  twitter: 
   tumblr:
   pinterest:
   pocket:
-  reddit: true
+  reddit: 
   linkedin:
   wordpress:
-  email: true
+  email:
